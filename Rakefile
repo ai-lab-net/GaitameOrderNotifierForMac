@@ -5,6 +5,8 @@ require 'motion/project/template/osx'
 begin
   require 'bundler'
   Bundler.require
+  require 'rubygems'
+  require 'ib'
 rescue LoadError
 end
 
