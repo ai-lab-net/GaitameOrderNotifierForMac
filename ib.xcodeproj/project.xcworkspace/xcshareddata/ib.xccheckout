@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B12C6C59-76DC-4D91-8943-DC1B20EFA220</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ib</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>939FADE522BD08DFD0EBD5C415DF86B9921A1266</key>
+		<string>https://github.com/ai-lab-net/GaitameOrderNotifierForMac.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ib.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>939FADE522BD08DFD0EBD5C415DF86B9921A1266</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ai-lab-net/GaitameOrderNotifierForMac.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>939FADE522BD08DFD0EBD5C415DF86B9921A1266</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>939FADE522BD08DFD0EBD5C415DF86B9921A1266</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GaitameOrderNotifierForMac</string>
+		</dict>
+	</array>
+</dict>
+</plist>
