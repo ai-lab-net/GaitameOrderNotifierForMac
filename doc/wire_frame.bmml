@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1342" measuredH="398" mockupW="1319" mockupH="354">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1342" measuredH="398" mockupW="1319" mockupH="383">
   <controls>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::Switch" x="972" y="259" w="-1" h="-1" measuredW="49" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -90,17 +90,19 @@
         <text>Window%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::LineChart" x="38" y="134" w="513" h="175" measuredW="187" measuredH="175" zOrder="18" locked="false" isInGroup="-1"/>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::LineChart" x="38" y="308" w="513" h="43" measuredW="187" measuredH="175" zOrder="19" locked="false" isInGroup="-1"/>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::ComboBox" x="38" y="88" w="-1" h="-1" measuredW="62" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="186" y="92" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>1%u5206%u8DB3</text>
+        <text>110%20%u5186</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::HRule" x="38" y="192" w="512" h="-1" measuredW="100" measuredH="10" zOrder="21" locked="false" isInGroup="-1"/>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="555" y="185" w="-1" h="-1" measuredW="19" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="47" y="92" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>110</text>
+        <text>2014/05/01%2010%3A00%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::MenuBar" x="23" y="15" w="-1" h="-1" measuredW="107" measuredH="29" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u8A2D%u5B9A%2C%20Help</text>
       </controlProperties>
     </control>
   </controls>
